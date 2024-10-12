@@ -1,5 +1,7 @@
+
 # Require review from domain experts when the PR modified significant config files.
-/components/batch-system/src/config.rs @tikv/tikv-configuration-reviewer
+/components/batch-system/src/config.rs @tikv/
+tikv-configuration-reviewer
 /components/cdc/src/config.rs @tikv/tikv-configuration-reviewer
 /components/encryption/src/config.rs @tikv/tikv-configuration-reviewer
 /components/engine_rocks/src/config.rs @tikv/tikv-configuration-reviewer
